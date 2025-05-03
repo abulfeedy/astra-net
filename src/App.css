@@ -1,0 +1,26 @@
+/* src/
+├── assets/            # Images, icons, etc.
+├── components/        # Reusable components
+│   ├── Navbar.jsx
+│   ├── Hero.jsx
+│   ├── UseCase.jsx
+│   ├── Tokenomics.jsx
+│   ├── Roadmap.jsx
+│   ├── StakingCalculator.jsx
+│   ├── PriceSimulator.jsx
+│   ├── WalletChecker.jsx
+│   ├── Community.jsx
+│   ├── Footer.jsx
+├── lib/               # Utility functions (e.g., API calls)
+│   ├── api.js
+├── App.jsx
+├── index.css
+├── main.jsx */
+
+
+
+
+/* Concept: AstraNet is a utility token powering a decentralized cloud computing network, where users can rent or provide computational resources (e.g., GPU power for AI training, storage, or rendering) in a Web3 ecosystem. */
+
+/* Frontend-Only: Uses static content for token details and public APIs for dynamic features (e.g., price simulation or wallet balance), ensuring free hosting compatibility */
+
