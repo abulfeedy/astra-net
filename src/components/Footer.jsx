@@ -9,6 +9,9 @@ const Footer = () => {
             <a href="#" className="text-gray-300 hover:text-emerald-300">Contact</a>
           </div>
         </div>
+          <p className="text-center text-gray-500 my-4"><span className="text-white">Disclaimer : </span>
+           Demo project — not for production use. Built by <a href="https://qubaagency.com" target="blank" 
+           className="underline italic">Quba Web3 Agency</a>.</p>
         <p className="text-center text-gray-500 mt-4">© 2025 AstraNet. All rights reserved.</p>
       </footer>
     );
